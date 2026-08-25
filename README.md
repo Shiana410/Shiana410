@@ -1,4 +1,4 @@
-## Hi, I am Juhyun Park 👋
+## Hi, I am Juhyun Park
 I am a software engineer
 
 ## About Me
